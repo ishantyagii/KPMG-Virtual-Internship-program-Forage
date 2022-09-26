@@ -11,7 +11,8 @@ Targeting high value customers based on customer demographics and attributes.
 
 III) TASK 3 - Data Insights and Presentation
 
-Using tableau to present insights.
+Using tableau to present insights. Link for tableau dashboard
+https://public.tableau.com/app/profile/ishan2406/viz/KPMG_virtual-internship_dashboards_16564162147460/Dashboard
 
 
 
