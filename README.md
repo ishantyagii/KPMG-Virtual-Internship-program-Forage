@@ -5,7 +5,8 @@ All datasets used for the assigned tasks can be found in the Datasets folder. So
 
 The final presentation and Tableau Packaged Workbook has also been included. The dashboard prepared for the presentation and other Tableau Worksheets can be found in Task 3(i) KPMG Tableu report.twbx file. The TargetCustomers.xlsx file contains details about the new customers that must be targetted in the future.
 
-Task3(ii) Presentation for growth strategy.ppt  contains final insights and conclusions found 
+Task3(ii) Presentation for growth strategy.ppt  contains final insights and conclusions found.
+Link to tableau dashboard-https://public.tableau.com/app/profile/ishan2406/viz/KPMGDataAnalyticsConsultingVirtualInternshipFinalPresentation_16643953204590/Presentation?publish=yes
 
 ##  BUSINESS USE CASE
 What are the trends in the underlying data?
