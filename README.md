@@ -7,7 +7,7 @@ The final presentation and Tableau Packaged Workbook has also been included. The
 
 Task3(ii) Presentation for growth strategy.ppt  contains final insights and conclusions found 
 
-#BUSINESS USE CASE
+##  BUSINESS USE CASE
 What are the trends in the underlying data?
 Which customer segment has the highest customer value?
 What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
