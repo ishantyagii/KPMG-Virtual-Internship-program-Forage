@@ -6,3 +6,13 @@ All datasets used for the assigned tasks can be found in the Datasets folder. So
 The final presentation and Tableau Packaged Workbook has also been included. The dashboard prepared for the presentation and other Tableau Worksheets can be found in Task 3(i) KPMG Tableu report.twbx file. The TargetCustomers.xlsx file contains details about the new customers that must be targetted in the future.
 
 Task3(ii) Presentation for growth strategy.ppt  contains final insights and conclusions found 
+
+#BUSINESS USE CASE
+What are the trends in the underlying data?
+Which customer segment has the highest customer value?
+What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
+Specifically, your presentation should specify who Sprocket Central Pty Ltd.'s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to.
+
+
